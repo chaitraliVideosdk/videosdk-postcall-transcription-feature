@@ -11,7 +11,7 @@ VideoSDK simplifies generating post-call transcription summaries in two ways: Au
 Begin by cloning the example repository:
 
 ```bash
-https://github.com/videosdk-community/videosdk-postcall-transcription-feature.git
+git clone https://github.com/chaitraliVideosdk/videosdk-postcall-transcription-feature.git
 ```
 
 Navigate to the cloned folder:
